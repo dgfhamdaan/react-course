@@ -9,7 +9,6 @@ function Hello() {
     Id: 456
   }
 
-
  return <p>MessageNo: {Message.Id} I am your AI {fullName()}
   </p>
 }
